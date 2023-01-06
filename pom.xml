@@ -39,7 +39,7 @@
    <configuration>
          <url>http://localhost:8088/manager/text</url>
          <server>TomcatServer</server>
-         <path>/WebApps</path>
+         <path>/sample-webapp</path>
    </configuration>
 </plugin>
 	      <plugin>
